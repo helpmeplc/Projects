@@ -1,7 +1,7 @@
 /*
 --------------------------------------------------
     James William Fletcher (james@voxdsp.com)
-        JANUARY 2021 - TBVGG3
+        JANUARY 2021 - TBVGG3_SGD
 --------------------------------------------------
     Tiny Binary VGG3
     https://github.com/tfcnn
